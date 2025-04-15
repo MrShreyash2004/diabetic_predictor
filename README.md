@@ -32,21 +32,26 @@ Other Features: PDF generation, Chatbot integration
 
 1.Clone the Repository
 
+bash
+Copy
+Edit
 git clone https://github.com/your-username/diabetes-prediction-app.git
 cd diabetes-prediction-app
 
 2.Create a Virtual Environment
 
+bash
+Copy
+Edit
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 3.Run the Application
 
+bash
+Copy
+Edit
 python app.py
-
-4.Open your browser and navigate to:
-
-http://127.0.0.1:5000/
 
 #📌 Usage
 
