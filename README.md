@@ -1,10 +1,13 @@
 #🩺 Diabetes Prediction Web App
+
 A web-based application for predicting diabetes using Logistic Regression, built with Flask.
 
 #🚀 Project Overview
+
 This project is a user-friendly web application designed to help individuals assess their likelihood of having diabetes based on medical inputs. It uses a Logistic Regression model to make predictions and provides additional interactive features for a complete user experience.
 
 #🎯 Key Features
+
 🔐 User Authentication: Sign up or log in to access the app.
 
 🤖 AI Chatbot: Ask diabetes-related questions anytime.
@@ -18,6 +21,7 @@ This project is a user-friendly web application designed to help individuals ass
 🔁 Predict Again: Instantly revisit the prediction page to try again.
 
 #🛠️ Technologies Used
+
 Frontend: HTML, CSS, Bootstrap (with Tailwind styling for enhanced UI)
 
 Backend: Flask (Python)
